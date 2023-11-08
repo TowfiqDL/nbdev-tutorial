@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-tutorial"
+  site-url: "https://TowfiqDL.github.io/nbdev-tutorial"
+  description: "Test Nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/TowfiqDL/nbdev-tutorial"
